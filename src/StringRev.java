@@ -13,7 +13,7 @@ public class StringRev {
 			after+=arr[i]+" ";
 			
 		}
-		System.out.println("after reverse :");
+		System.out.println("after reverse the string is :");
 		System.out.println(after);
 		
 	}
